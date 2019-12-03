@@ -1,8 +1,10 @@
 # helm-example
 hele 기본 예제
 
+https://helm.sh
 ## 설치
 ```
+brew install helm
 ```
 ## 생성
 ```
