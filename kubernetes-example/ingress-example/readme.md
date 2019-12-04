@@ -38,7 +38,7 @@ spec:
 ```
 
 - 애플리케이션 테스트
-![](/images/localhost.png)
+![](images/localhost.png)
 
 
 
