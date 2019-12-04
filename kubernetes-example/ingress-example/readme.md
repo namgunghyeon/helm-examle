@@ -37,8 +37,9 @@ spec:
 
 ```
 
-
-
 - 애플리케이션 테스트
 ![](/images/localhost.png)
 
+
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-on-digitalocean-kubernetes-using-helm
